@@ -5,10 +5,10 @@
 <br>
 
 <div align="center">
-  <!-- Banner Dragon Ball minimal neon cyberpunk – más chico y sutil -->
-  <img src="https://w0.peakpx.com/wallpaper/64/680/HD-wallpaper-goku-in-dragon-ball-super-minimalism-goku-dragon-ball-super-anime-dragon-ball-minimalism-minimalist-thumbnail.jpg" alt="Minimal Neon Goku Silhouette" width="40%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(255, 0, 170, 0.4); opacity: 0.95;" />
+  <!-- Banner Dragon Ball minimal neon – chico y sutil -->
+  <img src="https://wallpapers.com/images/hd/black-goku-minimalist-illustration-e42cz6i4a5ea5p31.jpg" alt="Minimal Black Goku Silhouette" width="35%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 0, 170, 0.3);" />
   <br><br>
-  <i>Kamehameha... pero en código neon! ⚡💥</i>
+  <i>Kamehameha... pero en código neon! ⚡</i>
 </div>
 
 <br>
@@ -24,61 +24,22 @@
   /    \\   \\   Buenos Aires, Argentina
  /      \\   \\  +54 9 11 6115-0671
 /________\\___\\ junior.rivaset12d1@gmail.com
-🔥 Dropeando código en .NET 8 + EF Core + MySQL
-🚀 Subiendo level en React (hooks, router, tailwind vibes)
-🖥️ Daily driver: Arch Linux con Hyprland + neón everywhere
-💥 Fun fact: Rompí el sistema con NVIDIA... y lo reviví en 18 min ⏱️
-🎯 Abierto a: proyectos OSS, freelance junior o charlas tech
-🐉 Bonus: Fan de Dragon Ball – ¡Over 9000 commits incoming! 🔥
 
+# roque@arch ~/.config/tech-stack
+core:
+  - dotnet        # .NET 8 + C#
+  - mysql         # Databases
+  - efcore        # ORM
 
+frontend:
+  - react         # Basics + hooks
+  - javascript    # Vanilla when needed
 
-⚡ TECH STACK // Powered by Neon
+system:
+  - arch-linux    # Rolling release king
+  - hyprland      # Wayland compositor
+  - git           # Version control
 
-  .NET  .NET 💜
-
-
-  C#  C# 🟣
-
-
-  MySQL  MySQL 🐬
-
-
-  React  React ⚛️
-
-
-  JS  JavaScript 🟡
-
-
-  Arch  Arch Linux 🐧
-
-
-  Git  Git 📦
-
-
-
-📊 GITHUB // ACTIVITY NEON
-
-  Neon Stats
-    
-  Streak
-
-
-  Top Langs
-
-
-
-🔗 CONNECT // DMs Open
-
-  
-    Gmail 📧 Email
-  
-     
-  
-    WhatsApp 💬 WhatsApp
-  
-
-
-
-
-  Visitors
+tools:
+  - vscode/neovim # Editor wars ongoing
+  - terminal      # Always on dark theme
