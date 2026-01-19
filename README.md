@@ -5,10 +5,10 @@
 <br>
 
 <div align="center">
-  <!-- Banner minimalista cyber/neon abstracto -->
-  <img src="https://thumbs.dreamstime.com/b/digital-data-flow-glowing-financial-charts-cyber-space-digital-abstract-background-blue-waves-futuristic-elements-405167950.jpg" alt="Minimal Neon Abstract" width="75%" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.3); opacity: 0.9;" />
+  <!-- Banner Dragon Ball minimal neon cyberpunk – más chico y sutil -->
+  <img src="https://w0.peakpx.com/wallpaper/64/680/HD-wallpaper-goku-in-dragon-ball-super-minimalism-goku-dragon-ball-super-anime-dragon-ball-minimalism-minimalist-thumbnail.jpg" alt="Minimal Neon Goku Silhouette" width="40%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(255, 0, 170, 0.4); opacity: 0.95;" />
   <br><br>
-  <i>Minimal glow, maximum code... 🌌</i>
+  <i>Kamehameha... pero en código neon! ⚡💥</i>
 </div>
 
 <br>
