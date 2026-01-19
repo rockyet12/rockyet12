@@ -1,49 +1,45 @@
-<div align="center" style="background: linear-gradient(to bottom, #2a004a, #4b0082, #6a0dad); padding: 20px; border-radius: 15px;">
+<div align="center" style="background: linear-gradient(to bottom, #0f001a, #1a0033, #2a004a); padding: 30px 20px; border-radius: 12px; color: #e0bbff;">
 
-# Roque Rivas 🐉💜  
+# Roque Rivas 🐉⚔️  
 **Junior .NET Developer**
 
-<img src="https://wallpapers-clan.com/wp-content/uploads/2025/04/dragon-ball-vegeta-fighting-spirit-desktop-wallpaper-cover.jpg" width="400" alt="Vegeta morado fighting spirit vibe">
-
-**Puro grind morado: código, esfuerzo y cero excusas.**  
+<img src="https://wallpapers-clan.com/wp-content/uploads/2025/11/black-clover-asta-black-divider-anti-magic-sword-desktop-wallpaper-preview.jpg" width="420" alt="Asta Black Clover Anti-Magic Sword - Minimal Dark Purple Vibe">
 
 </div>
 
-<div align="center" style="color: #c71585; font-weight: bold; margin: 20px 0;">
-  <i>Estilo Vegetta777: morado intenso, como el Ultra Ego de Vegeta 🔥</i>
+<div align="center" style="margin: 25px 0; color: #c71585; font-weight: bold;">
+  **Puro grind. Sin magia. Solo código y esfuerzo.**  
+  *Estilo morado oscuro – como el Ultra Ego*
 </div>
 
-### Sobre mí 💜
-Técnico en Computación (ET12 DE1 - 2025)  
-**C# .NET** + **MySQL** | Autodidacta total  
-Proyectos personales mientras la chamba me mantiene en el grind real.
+### Sobre mí
+Técnico en Computación (2025)  
+**C# .NET** • **MySQL** • Autodidacta  
+Proyectos personales mientras la chamba sigue su curso.
 
-<div align="center">
-  <img src="https://preview.redd.it/imagine-if-it-was-toji-v0-23a4fatp9x1c1.jpg?width=640&crop=smart&auto=webp&s=af80a02f22a7367f9cde7cce2351df279edb3da0" width="380" alt="Toji chamba meme">
-  <br>
-  <b style="color: #9370db;">Toji modo chamba:</b> "Primero las cuentas... después dominar el mundo" 😏💼  
-  <small>(Yo a las 3 AM con el código: mismo mood morado)</small>
+<div align="center" style="margin: 30px 0;">
+  <small style="color: #9370db;">Toji mood: "Primero las cuentas... después ser el más fuerte" 💼</small>
 </div>
 
-### Qué hay en este repo morado
-- Proyectos en **C# .NET** (WinForms, WPF, bases de datos)
-- MySQL estructurado y consultas potentes
-- Primeros experimentos en React/JS
-- Bugs eliminados con estilo
+### Repositorio
+- C# .NET (WinForms, WPF, bases de datos)  
+- MySQL estructurado  
+- Experimentos React/JS  
+- Bugs → eliminados ⚔️
 
-### Proyectos destacados 💜
-- **BD-cine** → Sistema de películas y funciones (C# + MySQL)
-- **Gunter-Bar** → Proyecto "xd" que salió con puro flow
-- Próximamente: APIs REST, .NET 8/9 y más power
+### Destacados
+- **BD-cine** → Películas y funciones  
+- **Gunter-Bar** → Proyecto "xd" con flow  
 
-<div align="center" style="color: #ba55d3; font-size: 1.2em; margin: 20px 0;">
-**"Esto es todo lo que tengo... pero en modo morado lo doy x10."**  
-— Roque (vibe Vegetta + Asta + Vegeta)
+Más en progreso... APIs, .NET 9, puro power.
+
+<div align="center" style="margin-top: 40px; color: #ba55d3; font-size: 1.1em;">
+**"Esto es todo lo que tengo... pero lo doy todo."**  
+— Roque
 </div>
 
-¡Hablemos de código, proyectos o Minecraft si querés!  
 📧 junior.rivase12d1@gmail.com  
 📱 +54 11 6115-0671  
 
-⭐ Dale star si te gusta el vibe morado.  
-¡Seguimos subiendo de nivel! 💻⚔️💜
+⭐ Si te gusta el vibe, dale star.  
+¡Seguimos! 💻💜
