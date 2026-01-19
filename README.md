@@ -5,10 +5,10 @@
 <br>
 
 <div align="center">
-  Aquí va un banner cyberpunk para ambientar tu setup (podes cambiar la URL por una foto tuya real si querés):
-  <img src="https://images.stockcake.com/public/7/5/5/755b1b68-8566-48c9-bc08-3decf86db6b8_large/neon-developer-workspace-stockcake.jpg" alt="Cyberpunk Neon Setup" width="80%" style="border-radius: 15px; box-shadow: 0 0 40px #ff00aa, 0 0 80px #00ffff;" />
+  <!-- Banner minimalista cyber/neon abstracto -->
+  <img src="https://thumbs.dreamstime.com/b/digital-data-flow-glowing-financial-charts-cyber-space-digital-abstract-background-blue-waves-futuristic-elements-405167950.jpg" alt="Minimal Neon Abstract" width="75%" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.3); opacity: 0.9;" />
   <br><br>
-  <i>Code runs better under neon lights... 💾✨</i>
+  <i>Minimal glow, maximum code... 🌌</i>
 </div>
 
 <br>
