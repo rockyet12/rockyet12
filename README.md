@@ -1,45 +1,59 @@
-<div align="center" style="background: linear-gradient(to bottom, #0f001a, #1a0033, #2a004a); padding: 30px 20px; border-radius: 12px; color: #e0bbff;">
+<div align="center" style="background: linear-gradient(to bottom, #0f001a, #1a0033, #2a004a); padding: 40px 20px; border-radius: 12px; color: #e0bbff;">
+
+![Header Pixel Art](https://images.stockcake.com/public/f/6/5/f6555150-07c3-4a98-b0a2-e8e147c5f07a_medium/neon-pixel-interface-stockcake.jpg)
 
 # Roque Rivas 🐉⚔️  
 **Junior .NET Developer**
 
-<img src="https://wallpapers-clan.com/wp-content/uploads/2025/11/black-clover-asta-black-divider-anti-magic-sword-desktop-wallpaper-preview.jpg" width="420" alt="Asta Black Clover Anti-Magic Sword - Minimal Dark Purple Vibe">
-
 </div>
 
-<div align="center" style="margin: 25px 0; color: #c71585; font-weight: bold;">
-  **Puro grind. Sin magia. Solo código y esfuerzo.**  
-  *Estilo morado oscuro – como el Ultra Ego*
+<div align="center" style="margin: 30px 0; color: #c71585; font-weight: bold; font-family: monospace;">
+$ whoami
 </div>
 
-### Sobre mí
-Técnico en Computación (2025)  
-**C# .NET** • **MySQL** • Autodidacta  
-Proyectos personales mientras la chamba sigue su curso.
-
-<div align="center" style="margin: 30px 0;">
-  <small style="color: #9370db;">Toji mood: "Primero las cuentas... después ser el más fuerte" 💼</small>
+<div style="color: #bb86fc; font-family: monospace; max-width: 700px; margin: 0 auto; text-align: left; line-height: 1.6;">
+  > Técnico en Computación (2025)  
+  > Apasionado por el desarrollo backend y bases de datos  
+  > Autodidacta, grind diario, cero excusas  
+  > "Esto es todo lo que tengo... pero lo doy todo."
 </div>
 
-### Repositorio
-- C# .NET (WinForms, WPF, bases de datos)  
-- MySQL estructurado  
-- Experimentos React/JS  
-- Bugs → eliminados ⚔️
+<br>
 
-### Destacados
-- **BD-cine** → Películas y funciones  
-- **Gunter-Bar** → Proyecto "xd" con flow  
-
-Más en progreso... APIs, .NET 9, puro power.
-
-<div align="center" style="margin-top: 40px; color: #ba55d3; font-size: 1.1em;">
-**"Esto es todo lo que tengo... pero lo doy todo."**  
-— Roque
+<div align="center" style="margin: 40px 0; color: #c71585; font-family: monospace;">
+$ cat ./stack/tecnologias
 </div>
 
-📧 junior.rivase12d1@gmail.com  
-📱 +54 11 6115-0671  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 800px; margin: 0 auto;">
+  <span style="background: #4b0082; color: white; padding: 8px 14px; border-radius: 6px; font-family: monospace;">C# .NET</span>
+  <span style="background: #4b0082; color: white; padding: 8px 14px; border-radius: 6px; font-family: monospace;">MySQL</span>
+  <span style="background: #4b0082; color: white; padding: 8px 14px; border-radius: 6px; font-family: monospace;">ASP.NET</span>
+  <span style="background: #4b0082; color: white; padding: 8px 14px; border-radius: 6px; font-family: monospace;">Entity Framework</span>
+  <span style="background: #4b0082; color: white; padding: 8px 14px; border-radius: 6px; font-family: monospace;">React (básico)</span>
+  <span style="background: #4b0082; color: white; padding: 8px 14px; border-radius: 6px; font-family: monospace;">Git</span>
+  <span style="background: #4b0082; color: white; padding: 8px 14px; border-radius: 6px; font-family: monospace;">Visual Studio</span>
+  <span style="background: #4b0082; color: white; padding: 8px 14px; border-radius: 6px; font-family: monospace;">MySQL Workbench</span>
+</div>
 
-⭐ Si te gusta el vibe, dale star.  
-¡Seguimos! 💻💜
+<br>
+
+<div align="center" style="margin: 40px 0; color: #c71585; font-family: monospace;">
+$ cat ./proyectos/destacados
+</div>
+
+<div style="color: #bb86fc; font-family: monospace; text-align: center; line-height: 1.8;">
+  • BD-cine → Gestión de películas y funciones (C# + MySQL)  
+  • Gunter-Bar → Proyecto "xd" de gestión  
+  • Más en progreso... APIs REST, .NET 8/9
+</div>
+
+<br><br>
+
+<div align="center" style="margin: 30px 0; color: #9370db;">
+  📧 junior.rivase12d1@gmail.com  
+  📱 +54 11 6115-0671  
+</div>
+
+<div align="center" style="color: #c71585; font-family: monospace; font-size: 0.9em;">
+  ⭐ Dale star si te gusta el vibe morado. ¡Seguimos grindando! 💜
+</div>
