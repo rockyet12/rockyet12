@@ -1,27 +1,39 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<div align="center">
 
+# Roque Rivas - Junior .NET Developer 🚀
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/roque1718) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Roque Rivas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rivas._.777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Roque Rivas ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RockyJR20xd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junior.rivaset12d1@gmail.com) 
+<img src="https://images5.alphacoders.com/140/thumb-1920-1404125.jpg" width="400" alt="Asta Black Clover Anti-Magic">  
+*(Como Asta... ¡sin magia pero con puro esfuerzo y anti-bugs!)*
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rockyet12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rockyet12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rockyet12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rockyet12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### ¡Yo soy Roque! 💻
+Técnico en Computación | C# .NET & MySQL | Proyectos personales con ganas de romperla como Goku en Ultra Instinto 🔥
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://images5.alphacoders.com/910/thumb-1920-910680.png" width="320" alt="Ultra Instinct Goku">
+  <br>
+  <small>Cuando el código compila a la primera... KAMEHAMEHAAAAA!!!</small>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rockyet12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ¿Qué vas a encontrar acá? 🌟
 
----
-[![](https://visitcount.itsvg.in/api?id=rockyet12&icon=0&color=0)](https://visitcount.itsvg.in)
+- Proyectos en **C# .NET** (WinForms, WPF, intentos de API)
+- Bases de datos **MySQL** (consultas heavys y stored procedures)
+- Algún experimento básico en React y JS
+- Mucho aprendizaje autodidacta y cero miedo a los bugs (¡los corto con mi espada anti-magia! ⚔️)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Proyectos destacados
+
+- **BD-cine** → Sistema básico de películas y funciones (C# + MySQL)
+- **Gunter-Bar** → Proyecto "xd" de gestión (¡el que más risas me sacó programando!)
+- Más en camino... ¡pronto con .NET 8/9 y APIs REST!
+
+## Skills rápidas
+
+```text
+C# .NET        █████████░  (el core de todo)
+MySQL          ████████░░  (queries que vuelan)
+React básico   ███░░░░░░░  (aprendiendo hooks como loco)
+Armado de PCs  ██████████  (hardware no me asusta)
+Resolución     ██████████  (bugs = rivales que siempre gano)
