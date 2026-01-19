@@ -1,46 +1,49 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(to bottom, #2a004a, #4b0082, #6a0dad); padding: 20px; border-radius: 15px;">
 
-# Roque Rivas 🐉  
+# Roque Rivas 🐉💜  
 **Junior .NET Developer**
 
-<img src="https://images.alphacoders.com/131/thumb-1920-1314151.jpg" width="400" alt="Asta Black Clover con espada anti-magia">
+<img src="https://wallpapers-clan.com/wp-content/uploads/2025/04/dragon-ball-vegeta-fighting-spirit-desktop-wallpaper-cover.jpg" width="400" alt="Vegeta morado fighting spirit vibe">
 
-**Sin magia ni atajos... solo código, esfuerzo y ganas de crecer.**  
+**Puro grind morado: código, esfuerzo y cero excusas.**  
 
 </div>
 
-### Sobre mí
-Técnico en Computación egresado (ET12 DE1, 2025)  
-Apasionado por **C# .NET** y **MySQL**. Autodidacta, armando proyectos mientras trabajo y aprendo en el camino.
+<div align="center" style="color: #c71585; font-weight: bold; margin: 20px 0;">
+  <i>Estilo Vegetta777: morado intenso, como el Ultra Ego de Vegeta 🔥</i>
+</div>
+
+### Sobre mí 💜
+Técnico en Computación (ET12 DE1 - 2025)  
+**C# .NET** + **MySQL** | Autodidacta total  
+Proyectos personales mientras la chamba me mantiene en el grind real.
 
 <div align="center">
-  <img src="https://preview.redd.it/imagine-if-it-was-toji-v0-23a4fatp9x1c1.jpg?width=640&crop=smart&auto=webp&s=af80a02f22a7367f9cde7cce2351df279edb3da0" width="380" alt="Toji Fushiguro vibe chamba">
+  <img src="https://preview.redd.it/imagine-if-it-was-toji-v0-23a4fatp9x1c1.jpg?width=640&crop=smart&auto=webp&s=af80a02f22a7367f9cde7cce2351df279edb3da0" width="380" alt="Toji chamba meme">
   <br>
-  <i>Toji mode chamba real: "Primero las cuentas... después ser el más fuerte" 😏</i>  
-  <small>(Yo debuggeando de noche: exacto el mismo mood)</small>
+  <b style="color: #9370db;">Toji modo chamba:</b> "Primero las cuentas... después dominar el mundo" 😏💼  
+  <small>(Yo a las 3 AM con el código: mismo mood morado)</small>
 </div>
 
-### Qué vas a encontrar aquí
+### Qué hay en este repo morado
 - Proyectos en **C# .NET** (WinForms, WPF, bases de datos)
-- MySQL bien estructurado y consultas útiles
-- Primeros pasos en React/JS
-- Bugs cazados sin piedad
+- MySQL estructurado y consultas potentes
+- Primeros experimentos en React/JS
+- Bugs eliminados con estilo
 
-### Proyectos destacados
-- **BD-cine** → Sistema básico de películas y funciones (C# + MySQL)
-- **Gunter-Bar** → Proyecto "xd" de gestión que me hizo reír y aprender
-- Más en camino... APIs REST, .NET 8/9 y lo que venga 🔥
+### Proyectos destacados 💜
+- **BD-cine** → Sistema de películas y funciones (C# + MySQL)
+- **Gunter-Bar** → Proyecto "xd" que salió con puro flow
+- Próximamente: APIs REST, .NET 8/9 y más power
 
-<div align="center">
-
-**"Esto es todo lo que tengo... pero lo doy todo."**  
-— Roque (inspirado en Asta + Goku)
-
+<div align="center" style="color: #ba55d3; font-size: 1.2em; margin: 20px 0;">
+**"Esto es todo lo que tengo... pero en modo morado lo doy x10."**  
+— Roque (vibe Vegetta + Asta + Vegeta)
 </div>
 
-¡Charlemos de código, proyectos o anime!  
+¡Hablemos de código, proyectos o Minecraft si querés!  
 📧 junior.rivase12d1@gmail.com  
 📱 +54 11 6115-0671  
 
-⭐ Si te gusta algún repo, dale star.  
-¡Seguimos grindando! 💻⚔️
+⭐ Dale star si te gusta el vibe morado.  
+¡Seguimos subiendo de nivel! 💻⚔️💜
