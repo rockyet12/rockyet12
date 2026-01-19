@@ -24,3 +24,61 @@
   /    \\   \\   Buenos Aires, Argentina
  /      \\   \\  +54 9 11 6115-0671
 /________\\___\\ junior.rivaset12d1@gmail.com
+🔥 Dropeando código en .NET 8 + EF Core + MySQL
+🚀 Subiendo level en React (hooks, router, tailwind vibes)
+🖥️ Daily driver: Arch Linux con Hyprland + neón everywhere
+💥 Fun fact: Rompí el sistema con NVIDIA... y lo reviví en 18 min ⏱️
+🎯 Abierto a: proyectos OSS, freelance junior o charlas tech
+🐉 Bonus: Fan de Dragon Ball – ¡Over 9000 commits incoming! 🔥
+
+
+
+⚡ TECH STACK // Powered by Neon
+
+  .NET  .NET 💜
+
+
+  C#  C# 🟣
+
+
+  MySQL  MySQL 🐬
+
+
+  React  React ⚛️
+
+
+  JS  JavaScript 🟡
+
+
+  Arch  Arch Linux 🐧
+
+
+  Git  Git 📦
+
+
+
+📊 GITHUB // ACTIVITY NEON
+
+  Neon Stats
+    
+  Streak
+
+
+  Top Langs
+
+
+
+🔗 CONNECT // DMs Open
+
+  
+    Gmail 📧 Email
+  
+     
+  
+    WhatsApp 💬 WhatsApp
+  
+
+
+
+
+  Visitors
