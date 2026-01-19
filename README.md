@@ -1,58 +1,52 @@
 <div align="center">
 
-# ROQUE RIVAS  
-**JUNIOR .NET DEVELOPER**  
-**"¡Voy a ser el Rey Mago del Código... aunque la chamba me tenga de rodillas!"** 🔥⚔️
+# Roque Rivas  
+**Junior .NET Developer**  
 
-<img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/asta-black-clover-dark-magic-sword-desktop-wallpaper-preview.jpg" width="400" alt="Asta Black Clover modo Black Asta épico">
+<img src="https://wallpapers.com/images/hd/asta-black-clover-4k-demon-sword-anti-magic-power-fqeapyb8eq4pfr8n.jpg" width="380" alt="Asta Black Clover modo demonio">
 
-**Como Asta: cero magia, 100% grind y anti-bugs a espada limpia!**  
+**Como Asta: sin atajos, puro esfuerzo y anti-bugs.**  
 
 </div>
 
 <div align="center">
-  <img src="https://wallpapers.com/images/hd/dragon-ball-goku-ultra-instinct-vgete03dp3wzycoi.jpg" width="400" alt="Goku Ultra Instinct épico">
+  <img src="https://images3.alphacoders.com/131/thumb-1920-1314151.jpg" width="380" alt="Goku Ultra Instinct">
   <br>
-  <big><b>¡Cuando el código corre sin errores... ULTRA INSTINCT ACTIVADO! KAMEHAMEHAAAAA!!!</b></big>
+  <b>Cuando el código compila limpio... modo Ultra Instinct activado.</b>
 </div>
 
-### ¿Quién carajos soy? 💥
-Técnico en Computación | **C# .NET + MySQL** a full power | Autodidacta nivel Saiyajin  
-Proyectos personales mientras la chamba me recuerda que Toji también tuvo que vender su alma por unos mangos.
+### Quién soy
+Técnico en Computación | C# .NET + MySQL | Autodidacta  
+Haciendo proyectos personales mientras la chamba me recuerda que Toji también tuvo que currar para pagar cuentas.
 
 <div align="center">
-  <img src="https://i.redd.it/how-does-shibuya-toji-beat-mahito-v0-mj13c0ilgdvf1.jpg?width=576&format=pjpg&auto=webp&s=f8583a1e20d06dcaf78a0a551533225963e82513" width="380" alt="Toji Fushiguro meme chamba">
+  <img src="https://preview.redd.it/imagine-if-it-was-toji-v0-23a4fatp9x1c1.jpg?width=640&crop=smart&auto=webp&s=af80a02f22a7367f9cde7cce2351df279edb3da0" width="380" alt="Toji Fushiguro meme chamba">
   <br>
-  <big><b>Toji en la chamba:</b> "Quiere chamba... quiere plata... pero también quiere ser el más fuerte" 😭💼</big>
-  <small>Yo a las 3 AM debuggeando: mismo vibe</small>
+  <b>Toji en la chamba real:</b> "Quiere plata... quiere ser el más fuerte... pero primero hay que pagar las cuentas" 😏💼  
+  <small>Yo debuggeando a las 2 AM: exacto mismo mood</small>
 </div>
 
-### Lo que hay acá (¡prepárate para el hype!):
-- Sistemas en **C# .NET** (WinForms, WPF, primeros APIs)
-- Bases de datos **MySQL** que cortan como la espada invertida de Toji
-- Experimentos locos en React/JS
-- Bugs asesinados sin piedad (modo Black Asta total)
+### Qué hay acá
+- Proyectos en **C# .NET** (WinForms, WPF, primeros pasos con APIs)
+- Bases de datos **MySQL** bien estructuradas
+- Algunos experimentos básicos en React/JS
+- Bugs resueltos sin drama (espada anti-magia incluida)
 
-### Proyectos destacados 🔥
-- **BD-cine** → Películas y funciones como si fuera mi reino
-- **Gunter-Bar** → El proyecto "xd" que me hizo sufrir y reír al mismo tiempo
-- ¡Más en camino! Próximamente .NET 9, APIs REST y puro poder
+### Proyectos destacados
+- **BD-cine** → Gestión simple de películas y funciones (C# + MySQL)
+- **Gunter-Bar** → Proyecto "xd" de gestión que salió medio loco
+- Más en progreso... pensando en .NET 8/9 y APIs REST
 
 <div align="center">
 
-**"¡Esto es todo lo que tengo!"**  
-— Roque (canalizando a Goku en Ultra Instinct)  
-
-**"¡Aunque la chamba me mate... voy a ser el más fuerte!"**  
-— Roque (modo Toji + Asta fusionados)
+**"Esto es todo lo que tengo... pero lo doy todo."**  
+— Roque (vibe Goku + Asta)
 
 </div>
 
-¡Hablemos, hagamos algo épico!  
+¡Escribime si querés charlar código o proyectos!  
 📧 junior.rivase12d1@gmail.com  
 📱 +54 11 6115-0671  
 
-⭐ Dale star como si fuera un Spirit Bomb colectivo!  
-Fork si querés unirte al squad anti-chamba aburrida.  
-
-¡A romperla, que el código no espera! 💪🐉⚔️😤
+⭐ Dale star si te copa algún repo.  
+¡Vamos que se puede! 💻⚔️
