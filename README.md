@@ -22,12 +22,12 @@
     /\\   \\     Junior .NET / MySQL / React
    /  \\   \\    Arch + Hyprland neon rice
   /    \\   \\   Buenos Aires, Argentina
- /      \\   \\  +54 9 11 6115-0671
+ /      \\   \\ 
 /________\\___\\ junior.rivaset12d1@gmail.com
 
 # roque@arch ~/.config/tech-stack
 core:
-  - dotnet        # .NET 8 + C#
+  - dotnet        # .NET 9 + C#
   - mysql         # Databases
   - efcore        # ORM
 
